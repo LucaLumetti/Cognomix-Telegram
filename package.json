@@ -1,0 +1,12 @@
+{
+  "name": "Cognomix-Telegram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "LucaLumetti",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "node-telegram-bot-api": "^0.29.0",
+    "request": "^2.83.0"
+  }
+}

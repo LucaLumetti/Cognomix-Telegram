@@ -1,0 +1,86 @@
+{
+    "LOM":{
+        "name": "Lombardia",
+        "good": 1
+    },
+    "PIE":{
+        "name": "Piemonte",
+        "good": 1
+    },
+    "EMR":{
+        "name": "Emilia-Romagna",
+        "good": 1
+    },
+    "FVG":{
+        "name": "Friuli-Venezia Giulia",
+        "good": 1
+    },
+    "TOS":{
+        "name": "Toscana",
+        "good": 1
+    },
+    "TAA":{
+        "name": "Trentino Alto-Adige",
+        "good": 1
+    },
+    "VEN":{
+        "name": "Veneto",
+        "good": 1
+    },
+    "LIG":{
+        "name": "Liguria",
+        "good": 1
+    },
+    "VDA":{
+        "name": "Valle d'Aosta",
+        "good": 1
+    },
+    "ABR":{
+        "name": "Abruzzo",
+        "good": 0
+    },
+    "BAS":{
+        "name": "Basilicata",
+        "good": 0
+    },
+    "CAL":{
+        "name": "Calabria",
+        "good": 0
+    },
+    "CAM": {
+        "name": "Campania",
+        "good": 0
+    },
+    "LAZ":{
+        "name": "Lazio",
+        "good": 0
+    },
+    "MAR":{
+        "name": "Marche",
+        "good": 0
+    },
+    "PUG": {
+        "name": "Puglia",
+        "good": 0
+    },
+    "BAS":{
+        "name": "Basilicata",
+        "good": 0
+    },
+    "SAR":{
+        "name": "Sardegna",
+        "good": 0
+    },
+    "SIC":{
+        "name": "Sicilia",
+        "good": 0
+    },
+    "MOL":{
+        "name": "Molisn't",
+        "good": 0
+    },
+    "UMB":{
+        "name": "Umbria",
+        "good": 0
+    }
+}
